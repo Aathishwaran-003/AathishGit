@@ -1,3 +1,4 @@
+
 # 👋 Hi, I'm Aathishwaran J
 
 🎓 Final Year Computer Science Engineering Student at P.A. College of Engineering and Technology  
@@ -52,4 +53,7 @@
 ---
 
 > “I believe in continuous learning and building solutions that make a difference.”
+> <p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+</p>
 
